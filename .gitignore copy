@@ -1,0 +1,9 @@
+_site/
+.sass-cache/
+
+
+assets/images/.DS_Store
+
+assets/.DS_Store
+
+assets/images/impressionen/.DS_Store
